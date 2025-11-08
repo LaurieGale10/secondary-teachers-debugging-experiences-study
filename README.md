@@ -11,6 +11,6 @@ To be added.
 
 ## Further Details
 - Authors
-  - Laurie Gale
-  - Sue Sentance
+  - Laurie Gale (ORCID: [0009-0004-4299-6704](https://orcid.org/0009-0004-4299-6704))
+  - Sue Sentance (ORCID: [0000-0002-0259-7408](https://orcid.org/0000-0002-0259-7408))
 - Period of data collection: 2023-10 - 2023-12.
