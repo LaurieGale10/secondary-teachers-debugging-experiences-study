@@ -7,7 +7,7 @@ The study was qualitative and we do not have ethical approval to publish partici
 - `codebook_definitions/` - Directory containing three versions of the codebook used to code the teacher interviews, with `codebook_definitions_v3.pdf` being the final version.
 
 ## License
-This repository is licensed under the terms of the CC-BY-SA-4.0 license.
+This repository is licensed under the terms of the [CC-BY-SA-4.0](https://github.com/LaurieGale10/secondary-teachers-debugging-experiences-study/blob/main/LICENSE.md) license.
 
 ## Further Details
 - Authors
