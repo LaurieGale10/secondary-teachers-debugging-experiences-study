@@ -1,5 +1,5 @@
 # Repository Overview
-This repository contains some of the analysis materials for the *"The Hands-Up Problem and How to Deal With It: Secondary School Teachers' Experiences of Debugging in the Classroom"* paper.
+This repository contains some of the analysis and study materials for the *"The Hands-Up Problem and How to Deal With It: Secondary School Teachers' Experiences of Debugging in the Classroom"* paper.
 
 The study was qualitative and we do not have ethical approval to publish participating teachers' interview transcripts. Therefore, this repository contains the following files:
 - `interview_schedule.pdf` - The interview questions teachers were asked.
@@ -7,7 +7,7 @@ The study was qualitative and we do not have ethical approval to publish partici
 - `codebook_definitions/` - Directory containing three versions of the codebook used to code the teacher interviews, with `codebook_definitions_v3.pdf` being the final version.
 
 ## License
-This repository is licensed under the terms of the [CC-BY-SA-4.0](https://github.com/LaurieGale10/secondary-teachers-debugging-experiences-study/blob/main/LICENSE.md) license.
+This repository is licensed under the terms of the CC-BY-SA-4.0 license (see LICENSE.md).
 
 ## Further Details
 - Authors
