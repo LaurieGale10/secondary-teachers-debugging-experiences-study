@@ -7,7 +7,7 @@ The study was qualitative and we do not have ethical approval to publish partici
 - `codebook_definitions/` - Directory containing three versions of the codebook used to code the teacher interviews, with `codebook_definitions_v3.pdf` being the final version.
 
 ## License
-To be added.
+This repository is licensed under the terms of the CC-BY-SA-4.0 license.
 
 ## Further Details
 - Authors
